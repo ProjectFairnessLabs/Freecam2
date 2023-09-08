@@ -6,8 +6,7 @@ Freecam² is an advanced Camera script that is used for creating screenshots in-
 
 With Freecam², you can make cool screenshots like this!
 
-![FiveM_b2944_GTAProcess_PftSXKkWT1](https://github.com/ProjectFairnessLabs/Freecam2/assets/95391751/f740753b-f5ae-4343-bccc-bd931421c6b5)
-![FiveM_b2944_GTAProcess_Wj8HeLQgln](https://github.com/ProjectFairnessLabs/Freecam2/assets/95391751/bf927797-ebed-4510-9983-e759203d7923)
+![FiveM_b2944_GTAProcess_PftSXKkWT1](https://forum.cfx.re/uploads/default/optimized/4X/3/2/b/32bae5a61fb641036cfaf61d230fc1bfd809d3ff_2_690x388.jpeg)
 
 Combine it with [PF-vMenu](https://github.com/ProjectFairnessLabs/PF-vMenu), and you already have a pretty killer setup. This is a must-have for your FiveM server, whether you're a PvP type person, or a car meet server.
 
