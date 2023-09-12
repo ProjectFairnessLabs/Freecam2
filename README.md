@@ -9,7 +9,9 @@ With Freecam², you can make cool screenshots like this!
 ![FiveM_b2944_GTAProcess_PftSXKkWT1](https://forum.cfx.re/uploads/default/optimized/4X/3/2/b/32bae5a61fb641036cfaf61d230fc1bfd809d3ff_2_690x388.jpeg)
 ![Acura Integra](https://cdn.discordapp.com/attachments/1055754990792224809/1122596771672109217/FiveM_b2944_GTAProcess_6C9CHctCNZ.jpg)
 
-Combine it with [PF-vMenu](https://github.com/ProjectFairnessLabs/PF-vMenu), and you already have a pretty killer setup. This is a must-have for your FiveM server, whether you're a PvP type person, or a car meet server.
+This is a must-have for your FiveM server, whether you're a PvP type person, or a car meet server.
+
+This resource is built into PF-vMenu. However, this is the standalone solution.
 
 # Support
 For support on how to use this resource, please join [our Discord server](https://discord.gg/D7cVc8TzPN).
